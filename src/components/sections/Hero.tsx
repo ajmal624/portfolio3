@@ -358,8 +358,7 @@ const Hero = () => {
               md:text-[20px]
             "
           >
-            Software Engineer&nbsp; | &nbsp;AI/ML Engineer&nbsp; | &nbsp;Python
-            Developer
+            Desktop Support Engineer&nbsp; | Network Engineer&nbsp; | Cybersecurity Associate&nbsp;
           </motion.p>
 
           {/* =====================================================
@@ -390,8 +389,7 @@ const Hero = () => {
               md:text-[17px]
             "
           >
-            I build AI-powered, modern, and scalable full-stack applications
-            using Python and cutting-edge web technologies.
+            I build secure, reliable, and practical IT and cybersecurity solutions using Python, networking technologies, system administration, and modern security tools.
           </motion.p>
 
           {/* =====================================================

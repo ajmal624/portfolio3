@@ -84,7 +84,7 @@ const Contact = () => {
       >
         {/* EMAIL */}
         <a
-          href="mailto:mohammedajmalajmal2003@gmail.com"
+          href="mailto:harisuthan07@gmail.com"
           className="flex items-center gap-3 rounded-xl bg-tertiary px-6 py-3 font-semibold text-white shadow-md transition-all duration-300 hover:-translate-y-1 hover:bg-[#915EFF]"
         >
           <span className="text-xl">✉</span>
@@ -93,7 +93,7 @@ const Contact = () => {
 
         {/* PHONE */}
         <a
-          href="tel:+919597611364"
+          href="tel:+919585187067"
           className="flex items-center gap-3 rounded-xl bg-tertiary px-6 py-3 font-semibold text-white shadow-md transition-all duration-300 hover:-translate-y-1 hover:bg-[#915EFF]"
         >
           <span className="text-xl">☎</span>
@@ -102,7 +102,7 @@ const Contact = () => {
 
         {/* GITHUB */}
         <a
-          href="https://github.com/ajmal624"
+          href=""
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-3 rounded-xl bg-tertiary px-6 py-3 font-semibold text-white shadow-md transition-all duration-300 hover:-translate-y-1 hover:bg-[#915EFF]"
@@ -113,7 +113,7 @@ const Contact = () => {
 
         {/* LINKEDIN */}
         <a
-          href="https://www.linkedin.com/in/mohammed-ajmal-6218a3337"
+          href=""
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-3 rounded-xl bg-tertiary px-6 py-3 font-semibold text-white shadow-md transition-all duration-300 hover:-translate-y-1 hover:bg-[#915EFF]"
@@ -125,7 +125,7 @@ const Contact = () => {
         {/* RESUME */}
         <a
           href="/resume.pdf"
-          download="Mohammed_Ajmal_Resume.pdf"
+          download=""
           className="flex items-center gap-3 rounded-xl bg-[#915EFF] px-6 py-3 font-semibold text-white shadow-md transition-all duration-300 hover:-translate-y-1 hover:bg-[#7c4ee8]"
         >
           <span className="text-xl">📄</span>

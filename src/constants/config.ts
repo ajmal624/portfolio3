@@ -50,11 +50,11 @@ export const config: TConfig = {
   // ==========================================================
 
   html: {
-    title: "Mohammed Ajmal M — AI/ML Software Engineer",
+    title: "Hari Hara Suthan M — Desktop Support Engineer",
 
-    fullName: "Mohammed Ajmal M",
+    fullName: "Hari Hara Suthan M",
 
-    email: "mohammedajmalajmal2003@gmail.com",
+    email: "harisuthanhs07@gmail.com",
   },
 
   // ==========================================================
@@ -62,12 +62,12 @@ export const config: TConfig = {
   // ==========================================================
 
   hero: {
-    name: "Mohammed Ajmal M",
+    name: "Hari Hara Suthan M",
 
     p: [
-      "Software Engineer | AI/ML Engineer | Python Developer",
+      "Desktop Support Engineer | Network Engineer | Cybersecurity Associate",
 
-      "I build AI-powered, machine learning, full-stack, and data-driven applications using Python and modern web technologies.",
+      "I build secure, reliable, and practical IT and cybersecurity solutions using Python, networking technologies, system administration, and modern security tools.",
     ],
   },
 
@@ -103,14 +103,22 @@ export const config: TConfig = {
   // ==========================================================
 
   sections: {
+    // ========================================================
+    // ABOUT
+    // ========================================================
+
     about: {
       p: "",
 
       h2: "",
 
       content:
-        "I build intelligent and scalable applications using Python, AI/ML, Deep Learning, NLP, Computer Vision, Object Detection, Prompt Engineering, and LLM technologies. I develop full-stack applications using Django, FastAPI, Flask, and React, while working across data processing, API integration, machine learning, automation, and cloud deployment. My focus is on turning real-world problems into practical, user-friendly technology solutions.",
+        "I build secure, reliable, and practical IT and cybersecurity solutions using Python, networking technologies, system administration, and modern security tools.",
     },
+
+    // ========================================================
+    // EXPERIENCE
+    // ========================================================
 
     experience: {
       p: "What I have done so far",
@@ -118,11 +126,19 @@ export const config: TConfig = {
       h2: "Work Experience.",
     },
 
+    // ========================================================
+    // TECH / SKILLS
+    // ========================================================
+
     tech: {
       p: "Technologies I work with",
 
       h2: "Skills.",
     },
+
+    // ========================================================
+    // CERTIFICATIONS
+    // ========================================================
 
     feedbacks: {
       p: "Certifications & training",
@@ -130,13 +146,17 @@ export const config: TConfig = {
       h2: "Credentials.",
     },
 
+    // ========================================================
+    // PROJECTS
+    // ========================================================
+
     works: {
       p: "My work",
 
       h2: "Projects.",
 
       content:
-        "A collection of AI/ML, data analytics, automation, LLM, and full-stack applications developed to solve practical problems.",
+        "A collection of cybersecurity, IT support, networking, system administration, and automation projects developed to solve practical technical problems.",
     },
   },
 };
